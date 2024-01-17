@@ -101,6 +101,9 @@ header {
     .navbar.active ul {
         opacity: 1;
     }
+    body {
+        overflow-x: hidden;
+    }
 }
 
 
